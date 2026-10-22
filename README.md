@@ -40,5 +40,7 @@ Bigger does not always mean better run.
 ## About
 
 Built by Emmanuel Nwankwo
+
 GitHub: github.com/Emmapluz
+
 LinkedIn: linkedin.com/in/emmanuel-uchenna-nwankwo
